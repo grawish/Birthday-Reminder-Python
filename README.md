@@ -2,7 +2,7 @@
 
 ### Use these Python commands to Install Reminder
 1. Open CMD
-2. Now Type the Following Commands
+2. Now Type the Following Commands<br>
     git clone https://github.com/grawish/Birthday-Reminder-Python
     cd Birthday-Reminder-Python
     python -m pip install -r requirements.txt
